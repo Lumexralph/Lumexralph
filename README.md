@@ -1,8 +1,10 @@
-### Hi there 👋
+### 👋
 
-- 👋 I am Olumide
-- 🔭 I’m currently working on setting up microservice applications in my home lab high availability multi-node Kubernetes Cluster.
-- 👯 I’m looking to collaborate on open source projects in Go, or some languages I have worked on before.
+<a href="https://www.youtube.com/watch?v=O5b0ZxUWNf0" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/appcypher/appcypher/main/matrix.svg" alt="matrix" style="max-width: 100%;">
+</a>
+
+👯 Just to keep growing and collaborating together.
 
 <!--
 **Lumexralph/Lumexralph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
