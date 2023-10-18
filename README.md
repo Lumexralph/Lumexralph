@@ -17,10 +17,13 @@ I have over 5 years of leadership, and 5 years of software engineering (frontend
 
 <p align="center">
 <a href="https://github.com/Lumexralph">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lumexralph&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-lake-one-89.vercel.app/api?username=Lumexralph&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lumexralph&layout=compact&langs_count=8&theme=dark"/> -->
 </a>
 </p>
+
+[![An image of @lumexralph's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lumexralph)](https://holopin.io/@lumexralph)
+
 
 💬 More info about me - http://www.linkedin.com/in/ogundeleolumide
 
